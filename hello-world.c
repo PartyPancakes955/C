@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main() { /*
+void main() {
 		printf("Hello, my name's Dima. ");
 		printf("How are you? ");
 		printf("How's the weather?");
@@ -67,8 +67,8 @@ void main() { /*
 							
 		printf("S = (38 / 2 ^2 * 3.14) = %f", 38/2 * 38/2 * 3.14);
 		printf("\n2PR = ( 38 * 3.14) = %f", 38 * 3.14);
-		}
-							*/
+}
+							
 							
 							
 	
