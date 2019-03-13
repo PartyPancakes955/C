@@ -1,0 +1,11 @@
+#include <stdio.h>
+void main() {
+    int value = 562;
+		int digit1 = 5;
+    int digit2 = 6;
+		int digit3 = 2;		
+	 printf("value is %d \n",value);
+   printf("digit1 is %d\n",digit1);
+   printf("digit2 is %d\n",digit2);
+   printf("digit3 is %d",digit3);
+}
